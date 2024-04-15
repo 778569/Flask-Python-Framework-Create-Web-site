@@ -1,0 +1,1 @@
+Flask is a Python framework for building lightweight and dynamic web applications. It helps speed up tedious behind-the-scenes development work, such as URL mapping, and offers more control than its closest competitor, Django. If you want to learn Flask, this course provides the training and hands-on examples you need to get started quickly. 
